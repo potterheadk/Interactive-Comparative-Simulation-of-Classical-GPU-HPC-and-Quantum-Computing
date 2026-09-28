@@ -1,8 +1,8 @@
 # Interactive-Comparative-Simulation-of-Classical-GPU-HPC-and-Quantum-Computing
 ### An interactive simulator that visually demonstrates how classical and quantum computing process information differently
+---
 
-
-Tentative Architecture Frontend:
+## Tentative Architecture Frontend:
 ~~~
                     Browser
         ┌──────────────────────────┐
